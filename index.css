@@ -118,7 +118,6 @@ p.internet-error{
     font-size: 1.5vw;
     text-align: center;
     display: none;
-
 }
 
 /* video Title */
@@ -313,4 +312,22 @@ p.yt-desc{
         text-align: justify;
         line-height: 6.8vw;
     }  
+}
+
+@media(300px <= width <= 400px){
+    h3.web-name{
+        margin-top: 1.7vw;
+    }
+}
+
+@media(401px <= width <= 500px){
+    h3.web-name{
+        margin-top: 1.3vw;
+    }
+}
+
+@media(501px <= width <= 600px){
+    h3.web-name{
+        margin-top: 1vw;
+    }
 }
