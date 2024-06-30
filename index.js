@@ -59,23 +59,29 @@ convert.onclick=()=>{
                 'x-rapidapi-host': 'youtube-search-and-download1.p.rapidapi.com'
             }
         };
-        
+    
         async function getvideo(){
     
             try{
+                internetError.style.display="block";
+                internetError.innerHTML=`<div class="spinner-border text-primary" role="status">
+                                          <span class="sr-only">Loading...</span>
+                                         </div>`;
                 const response2 = await fetch(url2, options2);
                 const result2 = await response2.json();
                 const response1 = await fetch(url1, options1);
+                internetError.style.display="none";
                 const result1 = await response1.json();
+                console.log(result1);
                 vid_title.style.display="block"; 
                 vid_title.innerText=result2["title"];
-                internetError.style.display="none";
                 video.style.display="block";
                 video.src=result1["urlMuxed"];
                    
             }
             catch(err){
                 internetError.style.display="block";
+                internetError.innerHTML="";
                 internetError.innerText="Please Check Your Internet :(";
                 vid_title.style.display="none"; 
                 video.style.display="none";
@@ -92,5 +98,4 @@ convert.onclick=()=>{
     else{
         alert("Invalid Youtube URL :(")
     }
-
 }
