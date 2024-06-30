@@ -12,7 +12,7 @@ t.from("div.top-box,div.web",{
     y:-70,
     stagger:0.4,
     opacity:0
-})
+}) 
 
 t.from("div.main-box",{
     opacity:0,
@@ -92,10 +92,11 @@ convert.onclick=()=>{
          getvideo()
         }
 
-    if(data.includes("https://www.youtube.com/") || data.includes("https://youtu.be/")){
+    if(data.includes("youtube") || data.includes("youtu.be") || data.includes("shorts")){
         searchYT();
     }
     else{
         alert("Invalid Youtube URL :(")
     }
+
 }
