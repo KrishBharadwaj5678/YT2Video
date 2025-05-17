@@ -1,4 +1,4 @@
-# 🎬 YT2Video - Seamlessly Download YouTube Videos
+# 🎬 YT2Video
 
 Transform any YouTube URL into a downloadable video file with just a few clicks!  
 
@@ -45,18 +45,6 @@ npm install
 
 ---
 
-## 🧩 Demo
-
-Check out a live version here 👉 [Live Demo](https://your-live-demo-link.com)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use and modify it.
-
----
-
 ## 🤝 Contributing
 
 We welcome all contributions to make **YT2Video** better! Follow the steps below to contribute:
@@ -70,7 +58,7 @@ We welcome all contributions to make **YT2Video** better! Follow the steps below
 2. **Clone Your Forked Repo**
 
    ```bash
-   git clone https://github.com/your-username/YT2Video.git
+   git clone https://github.com/KrishBharadwaj5678/YT2Video.git
    ```
 
 3. **Create a New Branch**
