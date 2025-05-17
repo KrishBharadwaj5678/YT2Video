@@ -10,9 +10,9 @@ Transform any YouTube URL into a downloadable video file with just a few clicks!
 |---------------------------|------------------------------------------------|
 | 🔗 YouTube URL Conversion | Convert any valid YouTube link                 |
 | ⚡ Fast Downloads         | Quick processing and download speed            |
-| 🎯 User-Friendly UI      | Simple and clean UI for ease of use            |
-| 💎 High-Quality Output   | HD video and audio downloads                   |
-| 💻 Cross-Platform Support| Works across all major browsers and OS         |
+| 🎯 User Friendly UI      | Simple and clean UI for ease of use            |
+| 💎 High Quality Output   | HD video and audio downloads                   |
+| 💻 Cross-Platform Support| Works across all major browsers       |
 
 ---
 
@@ -32,33 +32,22 @@ Transform any YouTube URL into a downloadable video file with just a few clicks!
 ```bash
 git clone https://github.com/yourusername/YT2Video.git
 cd YT2Video
-npm install
 ````
-
----
-
-## 🚀 Usage
-
-1. 🔗 Paste a YouTube video URL
-2. 🎞️ Select your preferred video quality (if available)
-3. ⬇️ Click "Download" and enjoy offline viewing
 
 ---
 
 ## 🤝 Contributing
 
-We welcome all contributions to make **YT2Video** better! Follow the steps below to contribute:
+We welcome contributions to make **YT2Video** better! 
 
 ### 🔧 Steps to Contribute:
 
 1. **Fork the Repository**
 
-   * Click the `Fork` button on the top-right corner of this page.
-
 2. **Clone Your Forked Repo**
 
    ```bash
-   git clone https://github.com/KrishBharadwaj5678/YT2Video.git
+   git clone https://github.com/yourusername/YT2Video.git
    ```
 
 3. **Create a New Branch**
@@ -68,9 +57,6 @@ We welcome all contributions to make **YT2Video** better! Follow the steps below
    ```
 
 4. **Make Your Changes**
-
-   * Add your feature or fix bugs.
-   * Follow the code style of the project.
 
 5. **Commit Your Changes**
 
