@@ -1,6 +1,6 @@
 # 🎬 YT2Video
 
-Transform any YouTube URL into a downloadable video file with just a few clicks!  
+Download **YouTube videos** instantly, just paste the link and grab your video in seconds! YT2Video makes it blazing fast, simple, and high quality every time. 🚀
 
 ---
 
