@@ -30,7 +30,7 @@ Turn any **YouTube link** into a downloadable video in seconds! **YT2Video** del
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/YT2Video.git
+git clone https://github.com/KrishBharadwaj5678/YT2Video.git
 cd YT2Video
 ````
 
@@ -47,7 +47,7 @@ We welcome contributions to make **YT2Video** better!
 2. **Clone Your Forked Repo**
 
    ```bash
-   git clone https://github.com/yourusername/YT2Video.git
+   git clone https://github.com/KrishBharadwaj5678/YT2Video.git
    ```
 
 3. **Create a New Branch**
