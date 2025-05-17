@@ -1,12 +1,12 @@
 # 🎬 YT2Video
 
-Download **YouTube videos** instantly, just paste the link and grab your video in seconds! YT2Video makes it blazing fast, simple, and high quality every time. 🚀
+Turn any **YouTube link** into a downloadable video in seconds! **YT2Video** delivers blazing speed, zero hassle, and stunning video quality every single time. 🚀
 
 ---
 
 ## ✨ Features
 
-| 🔧 Feature                 | 📌 Description                                  |
+| Feature                 | Description                                  |
 |---------------------------|------------------------------------------------|
 | 🔗 YouTube URL Conversion | Convert any valid YouTube link                 |
 | ⚡ Fast Downloads         | Quick processing and download speed            |
@@ -18,7 +18,7 @@ Download **YouTube videos** instantly, just paste the link and grab your video i
 
 ## 🛠️ Tech Stack
 
-| 🌐 Technology | 🔍 Description                            |
+| Technology | Description                            |
 | ------------- | ----------------------------------------- |
 | HTML          | Structure of the webpage                  |
 | CSS           | Styling and layout                        |
